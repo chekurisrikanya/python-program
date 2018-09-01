@@ -1,4 +1,3 @@
-num=3
-power=2
-power=3**2
-print(power)
+a=int(input())
+b=int(input())
+print(a**b)
